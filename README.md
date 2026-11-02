@@ -45,7 +45,7 @@ Looking for a 2027 internship in investment banking, sales & trading or market r
 
 ## Toolkit
 
-Python (NumPy, SciPy, pytest) · Excel · Bloomberg Terminal · Git and GitHub Actions · LaTeX## Hi there 👋
+Python (NumPy, SciPy, pytest) · Excel · Bloomberg Terminal · Git and GitHub Actions · LaTeX
 
 <!--
 **finn-mester/finn-mester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
